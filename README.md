@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a MEng student at Durham University and previous intern at Ansys.<br>I am interested in the application of DL to many domains, such as digital signal processing and side-channel attacks.<br>I also enjoy low level programming, including kernel-level programming and reverse-engineering.
+I'm a MEng student at Durham University and previous intern at Ansys.<br>I am interested in the application of DL to many domains, such as digital signal processing and side-channel attacks.<br>I also enjoy reverse-engineering and low-level programming, including kernel-level programming.
 
 
 ## 🌐 Socials:
@@ -10,7 +10,7 @@ I'm a MEng student at Durham University and previous intern at Ansys.<br>I am in
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=joshuatmyers&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=joshuatmyers&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=joshuatmyers&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=joshuatmyers&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=jupyter%20notebook)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=joshuatmyers&icon=0&color=0)](https://visitcount.itsvg.in)
